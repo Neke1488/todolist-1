@@ -1,0 +1,27 @@
+{
+  "name": "todojs",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrudnev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://mrudnev01@bitbucket.org/mrudnev01/todojs.git"
+  },
+  "keywords": [
+    "ATBBffRDqt6PBEQgpyZgWtpJCuMn6A8D138B"
+  ],
+  "bugs": {
+    "url": "https://bitbucket.org/mrudnev01/todojs/issues"
+  },
+  "homepage": "https://bitbucket.org/mrudnev01/todojs#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
